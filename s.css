@@ -1,0 +1,17 @@
+/* //Custom Font */
+
+@font-face {
+  font-family: face;
+  src: url(css/Kopimax.otf);
+}
+
+h1{
+  font-family: "Rubik Mono One", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+h2{
+  font-family: face;
+  font-size: 25px;
+  color: red;
+}

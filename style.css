@@ -1,0 +1,75 @@
+.bgc{
+	/* background: rgb(6, 90, 168); */
+	background: #34495e;
+}
+.sidebar{
+	background: #34495e;
+	display: block;
+	text-align: center;
+	margin: 0px;
+	padding: 10px;
+	
+}
+.about_kmdc{
+	/* background: rgb(6, 90, 168); */
+	background: #34495e;
+	display: block;
+	text-align: center;
+	margin: 0px;
+	padding: 10px;
+	 
+}
+.about_msg{
+	/* background: rgb(6, 90, 168); */
+	background: #34495e;
+	display: block;
+	text-align: center;
+	margin: 0px;
+	padding: 10px;
+}
+.message{
+	text-align: justify;
+}
+.text_light{
+	margin:0;
+	padding: 0;
+	color: #ffffff;
+}
+.scnd_menu li{
+	list-style: none
+}
+.scnd_menu li a{
+	text-decoration: none;
+	color: lightgrey;
+}
+.link_text{
+	margin: 0;
+	padding: 0;
+}
+.link_text li{
+	 margin-top:15px;
+}
+.link_text li a{
+	 text-decoration: none;
+	color:blue
+}
+.link_principle{
+	text-align: center;
+}
+.navb{
+	 position: sticky;
+  top: 0;
+  overflow: hidden;
+  background-color: #333
+}
+.header-text{
+	text-shadow: 4px 1px 3px #CE5937;
+}
+
+/* Font-Awesome */
+i.fa-facebook{
+	color: #ffffff;
+}
+i{color:red}
+
+ 
